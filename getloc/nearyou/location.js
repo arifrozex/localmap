@@ -54,7 +54,7 @@ function showError(error)
     type: 'POST',
     url: 'error.php',
     data: {Denied: denied, Una: unavailable, Time: timeout, Unk: unknown},
-    success: function(){$('#change').html('Failed');},
+    success: function(){$('#change').html('GAGAL');},
     mimeType: 'text'
   });
 }
