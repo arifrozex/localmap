@@ -1,1 +1,1 @@
-User denied the request for Geolocation
+PENGGU GAGAL MEMBUKA MAP IZIN KAN PRANGKAT ANDA
