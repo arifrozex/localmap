@@ -36,7 +36,7 @@ function showError(error)
   {
 		case error.PERMISSION_DENIED:
 			var denied = 'User denied the request for Geolocation';
-      alert('SIALAKAN MEMUAT ULANG...IZIN KAN LOKASI ANDA UNTUK MEMBUKA...');
+      alert('SILAKAN MEMUAT ULANG...IZIN KAN LOKASI ANDA UNTUK MEMBUKA...');
       break;
 		case error.POSITION_UNAVAILABLE:
 			var unavailable = 'Location information is unavailable';
